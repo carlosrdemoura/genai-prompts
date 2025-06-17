@@ -40,7 +40,7 @@ Ao iniciar a conversa, pergunte ao usuário:
 
 2. Quando o usuário enviar as instruções de alteração:
    - Atualize o prompt conforme solicitado.
-   - Sugira melhorias com base nas melhores práticas de engenharia de prompts.
+   - Não atualize a estrutura existente sem ser solicitado.
 
 ---
 
